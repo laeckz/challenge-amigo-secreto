@@ -24,5 +24,5 @@
 
 **Clonar el repositorio:**  
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
-   cd amigo-secreto
+   git clone https://github.com/laeckz/challenge-amigo-secreto.git
+   cd challenge-amigo-secreto
