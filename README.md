@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-¡Callenge **Amigo Secreto**! Esta aplicación web te permite organizar fácilmente un sorteo de Amigo Secreto, agregando nombres y realizando la asignación de forma aleatoria.
+¡Challenge **Amigo Secreto**! Esta aplicación web te permite organizar fácilmente un sorteo de Amigo Secreto, agregando nombres y realizando la asignación de forma aleatoria.
 
 ## ✨ Funcionalidades
 
